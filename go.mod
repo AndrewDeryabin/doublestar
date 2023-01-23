@@ -1,3 +1,3 @@
-module github.com/bmatcuk/doublestar/v4
+module github.com/AndrewDeryabin/doublestar/v4
 
 go 1.16
